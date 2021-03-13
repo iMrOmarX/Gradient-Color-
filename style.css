@@ -1,0 +1,25 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section {
+   margin-top: 150px;
+}
+p {
+    width: auto;
+    margin-left: 0;
+}
+
+#color-gradient {
+    border-radius: 5px;
+    width: 150px;
+}
+#result {
+    margin-left: 0;
+    margin-top: 30px;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 200px;
+}
